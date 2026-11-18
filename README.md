@@ -35,6 +35,8 @@ Developers who analyze weather and gridded atmospheric data in Python.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-calculation` | Unit-aware calculations on gridded data |
